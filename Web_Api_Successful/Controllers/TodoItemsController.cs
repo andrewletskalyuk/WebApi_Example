@@ -9,6 +9,7 @@ using Web_Api_Successful.Models;
 
 namespace Web_Api_Successful.Controllers
 {
+    //29.12.2019 - for test
     //[Route("api/[controller]")]
     [Route("api/TodoItems")]
     [ApiController]
